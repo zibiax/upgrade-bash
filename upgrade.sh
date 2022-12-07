@@ -5,4 +5,4 @@ yay
 rustup upgrade
 flatpak upgrade
 sudo pacman -Syuu
-sudo update-grub
+#sudo update-grub
